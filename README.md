@@ -8,7 +8,7 @@ date modified: 2024-08-15 10:01
 
 ## La Ruleta Del Infortunio
 
-![La Ruleta Del Infortunio](https://github.com/RogelioGF/ruleta/blob/main/la_ruleta_del_infortunio.png?raw=true)
+![la_ruleta_del_infortunio](https://github.com/RogelioGF/ruleta/blob/master/la_ruleta_del_infortunio.png?raw=true)
 
 ---
 
